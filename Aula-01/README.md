@@ -1,0 +1,1 @@
+O código utiliza o algoritmo Insertion Sort para ordenar cinco valores inteiros em ordem crescente. Ele percorre o vetor, compara os elementos e realiza os deslocamentos necessários para colocá-los em suas posições corretas. Ao final, exibe o vetor original, o vetor ordenado e a quantidade de movimentações realizadas durante o processo.
