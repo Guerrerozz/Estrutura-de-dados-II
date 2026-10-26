@@ -243,16 +243,22 @@ indicada pela professora.
 5.  Compare a sequência obtida com a sequência solicitada.
 6.  Caso não coincida, revise as arestas.
 
+<img width="484" height="675" alt="image" src="https://github.com/user-attachments/assets/196de910-af2a-4229-b447-ff3b91c65ae2" />
+
 ### Registro
 
-  Vértice     Grau
-  --------- ------
+| Vértice	| Grau | Vizinho |
+| --- | --- | --- |
+| A | 1 | H |
+| B	| 1	| H |
+| C	| 2	| G, H |
+| D	| 3	| E, F, H |
+| E	| 3	| D, F, G |
+| F | 4	| D, E, G, H |
+| G	| 4	| C, E, F, H |
+| H	| 6	| A, B, C, D, F, G |
             
-            
-            
-            
-
-**Sequência final de graus:** `( ______________________________ )`
+**Sequência final de graus:** `(1, 1, 2, 3, 3, 4, 4, 6)`
 
 ### Plataformas
 
