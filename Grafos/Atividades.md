@@ -184,7 +184,8 @@ Podemos considerar que os grafos são isomórficos, pois possuem a mesma quantid
 
 ### Grafo
 
-<img width="1129" height="482" alt="Diagrama sem nome (2)" src="https://github.com/user-attachments/assets/72574158-9d5c-4e0b-aadb-794620a2d572" />
+<img width="563" height="241" alt="image" src="https://github.com/user-attachments/assets/9816f33a-20d2-48b4-b87d-b27ac9e030f1" />
+
 
 
 ------------------------------------------------------------------------
@@ -205,15 +206,19 @@ subgrafos diferentes**.
 
 **Subgrafo G1**
 
-`V1 = { }`
+`V1 = {1, 2, 3}`
 
-`E1 = { }`
+`E1 = {(1,2), (2,3)}`
+
+<img width="240" height="241" alt="image" src="https://github.com/user-attachments/assets/bd584e19-0394-41b9-b155-716377f8ba7a" />
 
 **Subgrafo G2**
 
-`V2 = { }`
+`V2 = {1, 2, 4}`
 
-`E2 = { }`
+`E2 = {(1,2), (1,4)}`
+
+<img width="243" height="240" alt="image" src="https://github.com/user-attachments/assets/9dfbdd98-2240-48ec-a0ec-050856e92640" />
 
 ### Plataformas
 
