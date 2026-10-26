@@ -66,7 +66,7 @@ Considere:
    Vertice 4 = 4
    Vertice 5 = 1
 
-<img width="532" height="492" alt="Diagrama_final" src="https://github.com/user-attachments/assets/3fa85a5e-273c-4331-a382-fa178ab9789a" />
+<img width="461" height="460" alt="image" src="https://github.com/user-attachments/assets/9ce92291-5c7d-4456-868a-48904a3ec2fb" />
 
 
 ------------------------------------------------------------------------
@@ -139,7 +139,8 @@ Crie uma pequena rede de amizades entre essas pessoas.
 
 ### Diagrama
 
-<img width="622" height="622" alt="Diagrama sem nome" src="https://github.com/user-attachments/assets/c2f7d76f-22f9-469e-b060-5c34fdc314fe" />
+<img width="461" height="462" alt="image" src="https://github.com/user-attachments/assets/82bd5c2f-81c8-4250-a19c-7990bb205ce5" />
+
 
 ------------------------------------------------------------------------
 
@@ -164,8 +165,7 @@ mão única.
 
 ### Diagrama
 
-<img width="601" height="572" alt="Diagrama sem nome (1)" src="https://github.com/user-attachments/assets/3744b6eb-b686-4c5a-b754-a3579619b01b" />
-
+<img width="464" height="463" alt="image" src="https://github.com/user-attachments/assets/8cb6abb6-b30f-4fd8-b346-344fb291677d" />
 
 ------------------------------------------------------------------------
 
